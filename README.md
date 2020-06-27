@@ -13,4 +13,4 @@ The goal of the USSR player:
 
 Game play included landing paratroopers, shore bombardment from battleships, carrier battle groups and countless warnings of "Incoming Vampires!". It was great fun to play!
 
-![Original Box Front](https://raw.githubusercontent.com/sorens/northatlantic86/master/docs/images/box-front.png "North Atlantic '86 Box Cover")
+![Original Box Front](docs/images/box-front.png "North Atlantic '86 Box Cover")
