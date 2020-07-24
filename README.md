@@ -11,7 +11,7 @@ The goal of the NATO player:
 
 The goal of the USSR player: 
 
-    (1) Prevent  supplies from reaching the British Isles, 
+    (1) Prevent supplies from reaching the British Isles, 
     (2) Eliminate the threat to its naval forces at Iceland
         and the Faroes so that it could operate uncontested
         in the North Atlantic
