@@ -21,10 +21,10 @@ Game play included landing paratroopers, shore bombardment from battleships, car
 
 |     Doc      |            Description           |   Type   |
 |--------------|:--------------------------------:|:--------:|
-|[North Atlantic '86 Manual](docs/north_atlantic_86_manual.txt)|Original Manual for North Atlantic '86 |`ASCII`|
-|[North Atlantic '86 Manual](docs/north_atlantic_86_manual.md)|Original Manual for North Atlantic '86|`Markdown`|
-|[North Atlantic '86 Reference Card](docs/north_atlantic_86_reference_card.pdf)|Original Reference Card for North Atlantic '86|`PDF`|
-|[North Atlantic '86 Box Cover](docs/images/box-front.png)|Original Box Cover for North Atlantic '86|`PNG`|
+|[NA86 Manual](docs/north_atlantic_86_manual.txt)|Original Manual |`ASCII`|
+|[NA86 Manual](docs/north_atlantic_86_manual.md)|Original Manual|`Markdown`|
+|[NA86 Reference Card](docs/north_atlantic_86_reference_card.pdf)|Original Reference Card|`PDF`|
+|[NA86 Box Cover](docs/images/box-front.png)|Original Box Cover|`PNG`|
 
 
 ![Original Box Front](docs/images/box-front.png "North Atlantic '86 Box Cover")
