@@ -25,6 +25,9 @@ Game play included landing paratroopers, shore bombardment from battleships, car
 |[NA86 Manual](docs/north_atlantic_86_manual.md)|Original Manual|`Markdown`|
 |[NA86 Reference Card](docs/north_atlantic_86_reference_card.pdf)|Original Reference Card|`PDF`|
 |[NA86 Box Cover](docs/images/box-front.png)|Original Box Cover|`PNG`|
+|[Original Nimitz Image](docs/images/a-high-angle-bow-view-of-the-nuclear-powered-aircraft-carrier-uss-nimitz-cvn-8e99fd.jpg)|Original Nimitz Image|`JPG`|
 
 
 ![Original Box Front](docs/images/box-front.png "North Atlantic '86 Box Cover")
+
+![Original Image of Nimitz](docs/images/a-high-angle-bow-view-of-the-nuclear-powered-aircraft-carrier-uss-nimitz-cvn-8e99fd.jpg "High Angle Bow View of the Nuclear Powered Aircraft Carrier USS Nimitz (CVN)")
