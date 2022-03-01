@@ -591,16 +591,16 @@ Surface combat may occur between opposing TFs that occupy the same space if at l
 A. Surface combat is resolved using the following sequence:
 
     (1) each Soviet ship in a TF performing a "C" mission will fire 
-		at one of the ships from one of the NATO TFs in the same space.
+        at one of the ships from one of the NATO TFs in the same space.
     (2) each NATO ship that occupies the same space as the attacking 
-		Soviet, TF will fire at one of the ships from the attacking 
-		TF.
+        Soviet, TF will fire at one of the ships from the attacking 
+        TF.
     (3) each NATO ship in a TF performing a "C" mission will fire at 
-		one of the ships from one of the Soviet TFs in the same 
-		space.
+        one of the ships from one of the Soviet TFs in the same 
+        space.
     (4) each Soviet ship that occupies the same space as the 
-		attacking NATO TF will fire at one of the ships from the 
-		attacking TF.
+        attacking NATO TF will fire at one of the ships from the 
+        attacking TF.
 
 B. Target selection for surface combat is similar to that used for air attacks. In surface combat, a ship's selection value is equal to that ship's defense factor.
 
@@ -915,8 +915,8 @@ NATO
 AMERICA       40000      900       48(100)
 SCAPA FLOW      0         25         15
 AT SEA          0        148        120    	2CVN 2CGN 8DDG 3DD 7FFG 
-											19FF 4AKR 2AO 2AK 3AE 
-											15SSN
+                                            19FF 4AKR 2AO 2AK 3AE 
+                                            15SSN
 
 SOVIET
 ------
@@ -927,7 +927,7 @@ BERGEN        10000      300       180(225)
 FAROES        30000       30         60
 ICELAND       40000        0          0
 AT SEA          0          0         24    	2CVG 2CGN 7CG 7DDG 5FFG
-											9SSN 12SSNG
+                                            9SSN 12SSNG
 ```
 
 ICELAND SCENARIO
@@ -942,8 +942,8 @@ NATO
 AMERICA       40000      900       48(130)
 SCAPA FLOW      0         50         36
 AT SEA        13600       74        120    	 1CVN 1CV 2BB 4CGN 10CG 
-											12DDG 8DD 7FFG 12FF 6LPD
-											 8LST 2LHA 2LPH 4AKR
+                                            12DDG 8DD 7FFG 12FF 6LPD
+                                             8LST 2LHA 2LPH 4AKR
 
 SOVIET
 ------
@@ -954,7 +954,7 @@ BERGEN        10000      300        180
 FAROES        30000       30         60
 ICELAND       40000       30         50
 AT SEA          0          0         24		2CVG 2CGN 4CG 1CL 9DDG
-											3FFG 5FF 13SSN 12SSNG
+                                            3FFG 5FF 13SSN 12SSNG
 ```
 
 CAMPAIGN.1
@@ -968,9 +968,9 @@ BASE         INFANTRY  SUPPLIES  (TRANSPORTS)             SHIPS
 NATO
 ----
 AMERICA       40000      900       48(100) 	2CVN 2CV 2BB 4CGN 10CG 
-											11DDG 10DD 10FFG 24FF 
-											6LPD 8LST 2LHA 2LPH 4AKR 
-											2AO 2AK 4AE 2AFS 16SSN 5SS
+                                            11DDG 10DD 10FFG 24FF 
+                                            6LPD 8LST 2LHA 2LPH 4AKR 
+                                            2AO 2AK 4AE 2AFS 16SSN 5SS
 
 SCAPA FLOW    24000       50         72
 (MORALE 100)
@@ -982,8 +982,8 @@ AT SEA          0          0         17		2CV 13DDG 11FF 10SSN 5SS
 SOVIET
 ------
 MURMANSK      40000      900         48*   	2CVG 2CGN 2CG 2CL 16DDG 
-											2DD 5FFG 9FF 8AP 2LPD 
-											10LST 21SSN
+                                            2DD 5FFG 9FF 8AP 2LPD 
+                                            10LST 21SSN
 RIGA            0        500          0		14SSNG 10SS
 HAMBURG         0        500         96
 BERGEN        90000      300       342(255)
@@ -1001,9 +1001,9 @@ BASE         INFANTRY  SUPPLIES  (TRANSPORTS)             SHIPS
 NATO
 ----
 AMERICA       40000      900      168*(120)	1CVN 2CV 2BB 4CGN 10CG 
-											12DDG 8DD 7FFG 18FF 6LPD 
-											8LST 2LHA 2LPH 4AKR 2AE 
-											2AFS 6AK 9SSN 6SS
+                                            12DDG 8DD 7FFG 18FF 6LPD 
+                                            8LST 2LHA 2LPH 4AKR 2AE 
+                                            2AFS 6AK 9SSN 6SS
 SCAPA FLOW    24000       10         48
 (MORALE 40)
 AT SEA          0          0          0		15SSN
@@ -1013,8 +1013,8 @@ AT SEA          0          0          0		15SSN
 SOVIET
 ------
 MURMANSK      10000      900         48*	2CVG 2CGN 5CG 2CL 12DDG 
-											3FFG 9FF 3AP 2LPD 6LST 
-											16SSN 25SNG 10SS
+                                            3FFG 9FF 3AP 2LPD 6LST 
+                                            16SSN 25SNG 10SS
 RIGA            0        500          0		9AK
 HAMBURG         0        500         96
 BERGEN        10000      300        192
@@ -1025,8 +1025,9 @@ AT SEA          0          0          0		12SSN 20SSNG
 
 * Includes carrier planes
 ```
+
 14.0 SHIP DATA
-====================
+===============
 
 Abbreviations:
 ```
@@ -1547,7 +1548,7 @@ AUGUST 1     - French Intervention - French army enters Luxembourg.
 AUGUST 4     - Soviet airborne division in Luxembourg collapses under
                French attack.
 AUGUST 11    - NATO remnants withdraw to France.  Germany 
-			   surrenders.
+               surrenders.
 AUGUST 18    - Soviets agree to cease fire with France.  France
                declares its neutrality.
 AUGUST 22    - NATO forces evacuated to Great Britain.
