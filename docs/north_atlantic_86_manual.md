@@ -94,17 +94,17 @@ North Atlantic 86 is designed to be a two-sided game: Soviet vs NATO. The NATO f
 ---------------------------- 
 During the scenario selection phase, the player(s) select a scenario and determine the conditions under which the game will be played. The set-up may be changed by entering the following numbers:
 
-        (1) New Game or Saved Game
-        (2) Color TV or Black & White TV
-        (3) Solitaire or two-player
-        (4) Solitaire level of difficulty (1-4)
+    (1) New Game or Saved Game
+    (2) Color TV or Black & White TV
+    (3) Solitaire or two-player
+    (4) Solitaire level of difficulty (1-4)
 
 The scenario may be altered by entering the following numbers:
 
-        (5) Campaign 1 (Sep 7 - Dec 31, 1986)
-        (6) Campaign 2 (Nov 1 - Dec 31, 1986)
-        (7) Convoy QR44 (Sep 25 - Sep 30, 1986)
-        (8) Iceland (Nov 11 - Nov 20, 1986)
+    (5) Campaign 1 (Sep 7 - Dec 31, 1986)
+    (6) Campaign 2 (Nov 1 - Dec 31, 1986)
+    (7) Convoy QR44 (Sep 25 - Sep 30, 1986)
+    (8) Iceland (Nov 11 - Nov 20, 1986)
 
 3.2 Scenario Set-Up 
 ------------------- 
@@ -112,11 +112,19 @@ At the start of each game, the computer will assign all ships, aircraft, infantr
 
 3.3 Sequence 
 ------------ 
-(A) NATO TF Adjustment Phase (B) NATO Movement Phase (C) Soviet TF Adjustment Phase (D) Soviet Movement Phase (E) Soviet Air Operations Phase (F) NATO Air Operations Phase (G) Combat Resolution Phase (H) Save Game Phase
+
+    (A) NATO TF Adjustment Phase 
+    (B) NATO Movement Phase 
+    (C) Soviet TF Adjustment Phase 
+    (D) Soviet Movement Phase 
+    (E) Soviet Air Operations Phase 
+    (F) NATO Air Operations Phase 
+    (G) Combat Resolution Phase 
+    (H) Save Game Phase
 
 3.4 Keeping Time 
 ---------------- 
-An AM turn followed by a PM turn equals one day. The calendar is adjusted at the end of the PM turn.
+An `AM` turn followed by a `PM` turn equals one day. The calendar is adjusted at the end of the `PM` turn.
 
 4.0 TASK FORCE ADJUSTMENT 
 ========================= 
@@ -124,9 +132,9 @@ At the start of the task force adjustment phase, the computer will display a men
 
 4.1 Forming Task Forces
 -----------------------
-A. Enter the code for the port in which you will assemble your TF (A, M, R).
+A. Enter the code for the port in which you will assemble your TF (`A`, `M`, `R`).
 
-B. Enter the code for the mission your TF will perform. See Section 9.2 for list of the possible missions.
+B. Enter the code for the mission your TF will perform. See Section __9.2__ for list of the possible missions.
 
 C. The computer will list those ships in the selected port that are eligible ship perform the selected mission. Each ship will be displayed with its ship number.
 
@@ -158,27 +166,27 @@ B. The Soviet player is allowed 9 active TFs, the NATO player is allowed 11. If 
 
 C. Enter the number of the ships you wish to transfer to a new TF. The computer will set up a new TF for you. The new TF will have the same mission and endurance as the original TF.
 
-D. If you are currently using fewer than your maximum number of TFs, then the DIVIDE TF function may be used to "scuttle" crippled ships. Just enter the letter (S) following the number of the ship you are transferring. Your opponent will receive one less victory point for ships that are scuttled than would ordinarily be awarded for a ship sunk involuntarily. (Your crew is assumed to have been removed safely).
+D. If you are currently using fewer than your maximum number of TFs, then the DIVIDE TF function may be used to "scuttle" crippled ships. Just enter the letter (`S`) following the number of the ship you are transferring. Your opponent will receive one less victory point for ships that are scuttled than would ordinarily be awarded for a ship sunk involuntarily. (Your crew is assumed to have been removed safely).
 
 4.4 Loading Transports 
 ---------------------- 
-Troops and supplies may be loaded onto ships which are located in a friendly port (America, Murmansk, Riga).
+Troops and supplies may be loaded onto ships which are located in a friendly port (`America`, `Murmansk`, `Riga`).
 
 A. Use the LOAD TRANSPORTS routine, enter the code for the port in which the loading is to take place. The computer will list all eligible ships in that port with a cargo capacity greater than zero.
 
 B. Enter the number of the ship you wish to load and then enter the number of infantry companies and/or supply units you wish to load. Each infantry company represents 100 men.
 
-C. If you wish to unload cargo while still in port, type a (U) in response to the question NUMBER OF INFANTRY COMPANIES/SUPPLY UNITS TO BE LOADED ? By typing a (U), the current cargo will be unloaded.
+C. If you wish to unload cargo while still in port, type a (`U`) in response to the question `NUMBER OF INFANTRY COMPANIES/SUPPLY UNITS TO BE LOADED ?` By typing a (`U`), the current cargo will be unloaded.
 
-D. Only supply units may be loaded into ships whose prefix begins with the letter A (AP, AK, AE etc).
+D. Only supply units may be loaded into ships whose prefix begins with the letter A (`AP`, `AK`, `AE` etc).
 
 4.5 Checking the Pipeline 
 ------------------------- 
 Reinforcements and repaired ships will periodically be sent to ports you control. To check the status of these ships, you may wish to request the current condition of your ship "pipeline".
 
-A. Enter the code (A, M, R) for the port you wish to check.
+A. Enter the code (`A`, `M`, `R`) for the port you wish to check.
 
-B. Enter the Ship Type Prefix: Press (RETURN) if you wish to view all ships in the pipeline. To view a particular type of ship, enter the first letter of the ship abbreviation. EXAMPLE Enter "D" to list only DD and DDG type ships in the pipeline.
+B. Enter the Ship Type Prefix: Press (RETURN) if you wish to view all ships in the pipeline. To view a particular type of ship, enter the first letter of the ship abbreviation. EXAMPLE Enter "`D`" to list only DD and DDG type ships in the pipeline.
 
 C. Enter Maximum Delay Time: Press (RETURN) to view all ships in the pipeline. Enter a number (N) if you do not wish to view any ships that will exceed N days in the pipeline.
 
@@ -216,25 +224,26 @@ Both players should agree before ending the game. The computer will display the 
 
 4.12 Weapons Display 
 -------------------- 
-A. Press (W) to enter the Weapons Display Routine. The computer will ask to enter a ship number. To view an individual ship, enter the I.D. number for that ship. (The ship I.D. numbers can be found in the Pipeline Display for ships in Port or the Divide TF routine for ships in a TF).
+A. Press (`W`) to enter the Weapons Display Routine. The computer will ask to enter a ship number. To view an individual ship, enter the I.D. number for that ship. (The ship I.D. numbers can be found in the Pipeline Display for ships in Port or the Divide TF routine for ships in a TF).
 
 B. To view each ship in a particular TF, enter (T) in place of the ship number. The computer will prompt you to enter a TF number. To view each ship in a specific port, enter the following TF numbers for the desired port: 1-Murrmansk, 2-Riga, 16-America.
 
 C. The various weapons systems are described below:
-   1. Main Guns: guns larger than 150mm, may be used for bombardment or surface combat.
-   2. Light Guns: guns 50mm to 149mm, may be used for bombardment, surface combat or area defense flak.
-   3. Missile Defense: combined rating of short-range guns and missiles used for self-defense.  Based on quantity and quality of the system involved.
-   4. Helicopters: Patrol/ASW helicopters carried by a particular ship or base.  Used for both submarine and surface search and anti-sub attack.
-   5. Air-Recon: the reconnaissance aircraft carried by a particular carrier or base, used for surface search only.
-   6. Air-EW: the electronic warfare aircraft carried by a particular carrier or base, used to protect friendly CAP and strike aircraft from enemy missile attack.
-   7. Air-ASW: the anti-submarine patrol aircraft carried by a particular carrier or base.  Used for long-range submarine search and anti-sub attack.
-   8. Air Early Warning: the Early Warning aircraft carried by a particular carrier or base.  Allows a TF or base to react to incoming bomber or missile attack.
-   9. SSM-System: the Surface-to-Surface Missile carried by a particular ship.  Displayed are NUMBER IN SALVO, TOTAL CARRIED and MISSILE RANGE in km.  Used to attack enemy ships.
-  10. ASW-System: the Long-Range Anti-Sub missile system is displayed along with the system's range in turn.
-  11. SAM-System: the Long-Range Surface-to-Air Missile system is displayed along with the range in km.
-  12. AST-System: the Anti-Submarine Torpedo System is displayed along with the torpedoes range in km.  The MK48, Tigerfish and 533mm Torpedoes may also attack surface ships.
-  13. EW Strength: the Qualitative rating assigned for a ship's radar and ECM equipment.  For submarines, this is the "quiet" rating.
-  14. Sonar Strength: the qualitative rating assigned for a ship's sonar equipment.
+
+     1. Main Guns: guns larger than 150mm, may be used for bombardment or surface combat.
+     2. Light Guns: guns 50mm to 149mm, may be used for bombardment, surface combat or area defense flak.
+     3. Missile Defense: combined rating of short-range guns and missiles used for self-defense.  Based on quantity and quality of the system involved.
+     4. Helicopters: Patrol/ASW helicopters carried by a particular ship or base.  Used for both submarine and surface search and anti-sub attack.
+     5. Air-Recon: the reconnaissance aircraft carried by a particular carrier or base, used for surface search only.
+     6. Air-EW: the electronic warfare aircraft carried by a particular carrier or base, used to protect friendly CAP and strike aircraft from enemy missile attack.
+     7. Air-ASW: the anti-submarine patrol aircraft carried by a particular carrier or base.  Used for long-range submarine search and anti-sub attack.
+     8. Air Early Warning: the Early Warning aircraft carried by a particular carrier or base.  Allows a TF or base to react to incoming bomber or missile attack.
+     9. SSM-System: the Surface-to-Surface Missile carried by a particular ship.  Displayed are NUMBER IN SALVO, TOTAL CARRIED and MISSILE RANGE in km.  Used to attack enemy ships.
+    10. ASW-System: the Long-Range Anti-Sub missile system is displayed along with the system's range in turn.
+    11. SAM-System: the Long-Range Surface-to-Air Missile system is displayed along with the range in km.
+    12. AST-System: the Anti-Submarine Torpedo System is displayed along with the torpedoes range in km.  The MK48, Tigerfish and 533mm Torpedoes may also attack surface ships.
+    13. EW Strength: the Qualitative rating assigned for a ship's radar and ECM equipment.  For submarines, this is the "quiet" rating.
+    14. Sonar Strength: the qualitative rating assigned for a ship's sonar equipment.
 
 
 5.0 TASK FORCE MOVEMENT
@@ -249,93 +258,114 @@ A. A TFs fleet speed is calculated as 30 knots or the speed of the slowest ship 
 ------------
 A. A TF receives one movement point for each 2-1/2 knots of fleet speed. A TF will receive a minimum of three movement points.
 
-B. A TF expends two movement points for each square moved in directions N,S,E, W.
+B. A TF expends two movement points for each square moved in directions `N`,`S`,`E`, `W`.
 
-C. A TF expends three movement points for each square moved in directions NW, NE, SW, SE.
+C. A TF expends three movement points for each square moved in directions `NW`, `NE`, `SW`, `SE`.
 
 D. A TF with fewer than two points remaining in its move may not move any further, but it may still "dock".
 
-E. If you accidentally press the wrong key while moving, you may press the (A) abort key and start your move over. This may not be done after you have docked a TF or pressed (0) to end the move.
+E. If you accidentally press the wrong key while moving, you may press the (`A`) abort key and start your move over. This may not be done after you have docked a TF or pressed (`0`) to end the move.
 
 F. A TF may never enter a land square, TFs may move freely through any other square.
 
 5.3 Entering Harbor - Unloading Ships
 -------------------------------------
-A. A TF that begins move on a friendly base square may enter the harbor and unload cargo by pressing (9) for "dock". For a TF that begins its move in a harbor and wishes to remain in the harbor, press (9) to dock. For a TF that wishes to exit a harbor but remain in the same square, press (0).
+A. A TF that begins move on a friendly base square may enter the harbor and unload cargo by pressing (`9`) for "dock". For a TF that begins its move in a harbor and wishes to remain in the harbor, press (`9`) to dock. For a TF that wishes to exit a harbor but remain in the same square, press (`0`).
 
-B. Each ship may unload a maximum of 18 infantry companies or 3 supply units or an equivalent combination of infantry and supply.
+B. Each ship may unload a maximum of `18` infantry companies or `3` supply units or an equivalent combination of infantry and supply.
 
 C. While "in harbor" a TF may never be attacked by enemy ships, submarines or missiles.
 
 D. While "in harbor" a TFs ships are more vulnerable to bombing attack; bomber accuracy is doubled when attacking ships "in harbor".
 
-E. To unload troops and supplies on an enemy-controlled base (amphibious assault), follow the procedure listed in A, above Ships will unload infantry /supplies at a rate of 9/2 instead of 18/3. When unloading at an enemy- controlled base, ships will never enter the harbor.
+E. To unload troops and supplies on an enemy-controlled base (amphibious assault), follow the procedure listed in A, above Ships will unload infantry /supplies at a rate of `9/2` instead of `18/3`. When unloading at an enemy- controlled base, ships will never enter the harbor.
 
 5.4 Movement Sequence
 ---------------------
 A. During the movement phase, TFs must be moved sequentially according to TF number. Once a TF has completed its move, the action cannot be reversed.
 
-B. A player may examine the ships in a TF at any time during the TFs movement segment. Press the (S) ships key, and the computer will give a complete status display for each ship in the TF. The column heads for the display are explained in section 2.3.
+B. A player may examine the ships in a TF at any time during the TFs movement segment. Press the (`S`) ships key, and the computer will give a complete status display for each ship in the TF. The column heads for the display are explained in section 2.3.
 
-C. To change a TFs EW(Electronic Warfare) mode, press (M). A TFs EW mode may be either Passive or Active. TFs in Passive Mode have all Radars and Active Sonars turned off. TFs in Active Mode will automatically reveal their position to enemy searches. TFs in active mode will have an increased chance to destroy or jam enemy anti-ship missiles. Submarines in active mode will have an increased chance to acquire torpedo targets. Active EW- mode is indicated when the words "EW-MODE" are displayed in inverse print.
-
+C. To change a TFs EW(Electronic Warfare) mode, press (`M`). A TFs EW mode may be either Passive or Active. TFs in Passive Mode have all Radars and Active Sonars turned off. TFs in Active Mode will automatically reveal their position to enemy searches. TFs in active mode will have an increased chance to destroy or jam enemy anti-ship missiles. Submarines in active mode will have an increased chance to acquire torpedo targets. Active EW- mode is indicated when the words "EW-MODE" are displayed in inverse print.
 
 6.0 PLANNING LAND ATTACKS
 =========================
 On any turn in which both Soviet and NATO forces occupy either Faroes or Iceland, the computer will request an attack level for both players. The attack levels range from 0 to 5, with 0 being no attack, 1 being a very low intensity attack... 5 being a very high intensity attack. The supplies consumed by a particular attack will be equal to the attack level.
 
-
 7.0 AIR OPERATIONS
 ==================
-During the Air Operation Phase, a player may (1) launch CAP ; (2) observe search results; (3) launch air strikes; (4) transfer aircraft (5) launch SSM/ASW attacks.
+During the Air Operation Phase, a player may 
+
+    (1) launch CAP
+    (2) observe search results
+    (3) launch air strikes
+    (4) transfer aircraft
+    (5) launch SSM/ASW attacks
 
 7.1 CAP Missions
 ----------------
 A. At the start of the Air Operation Phase, each player must determine how many of his fighters will fly CAP missions. Aircrafts performing CAP may not participate in air strikes or transfers during that turn.
 
-B. Fighters may fly two types of CAP missions: (1) normal CAP, and (2) long- range CAP. Normal CAP will protect only the TF or airbase from which it originated. Long-range CAP will protect any friendly TF within range of the CAP aircraft. For CAP purposes, the range equals half the aircraft's strike range. Only a fraction of an airgroup performing long-range CAP will intercept an enemy bomber or missile strike. (The greater the distance between the CAP's home base and the strike target, the smaller the fraction). The number of CAP aircraft eligible to intercept a strike may be further reduced if the strike bombers are armed with long-range standoff missiles.
+B. Fighters may fly two types of CAP missions: 
+ 
+    (1) normal CAP
+    (2) long- range CAP
+      
+Normal CAP will protect only the TF or airbase from which it originated. Long-range CAP will protect any friendly TF within range of the CAP aircraft. For CAP purposes, the range equals half the aircraft's strike range. Only a fraction of an airgroup performing long-range CAP will intercept an enemy bomber or missile strike. (The greater the distance between the CAP's home base and the strike target, the smaller the fraction). The number of CAP aircraft eligible to intercept a strike may be further reduced if the strike bombers are armed with long-range standoff missiles.
 
-C. CAP fighters have two methods of engaging enemy airstrikes: (1) Long-Range Air-to-Air Missile Combat, (2) Dogfight Combat. Both Missile and dogfight combat will occur when CAP intercepts airstrikes armed with regular bombs (standoff range=0). There is a chance that CAP aircraft will fail to engage enemy air strikes armed with Long-Range Stand-Off Missiles. The probability of failure is affected by: (1) stand-off range, (2) CAP air-to-air missile range, (3) range of CAP aircraft, (4) the success of Early Warning Aircraft in detecting the strike. It is possible that CAP will proceed in firing missiles at an airstrike, but fail to engage it in dogfight combat.
+C. CAP fighters have two methods of engaging enemy airstrikes: 
+
+    (1) Long-Range Air-to-Air Missile Combat
+    (2) Dogfight Combat. 
+
+Both Missile and dogfight combat will occur when CAP intercepts airstrikes armed with regular bombs (standoff range=0). There is a chance that CAP aircraft will fail to engage enemy air strikes armed with Long-Range Stand-Off Missiles. The probability of failure is affected by: 
+
+    (1) stand-off range
+    (2) CAP air-to-air missile range
+    (3) range of CAP aircraft
+    (4) the success of Early Warning Aircraft in detecting the strike
+
+It is possible that CAP will proceed in firing missiles at an airstrike, but fail to engage it in dogfight combat.
 
 D. Listed below are the AVERAGE/MAXIMUM interception ranges (in km), each type of fighter aircraft:
 
 ```
-                             Long Range CAP
-                    Missile    Missile    Dogfight    Dogfight
-                     + EW       No EW       + EW       No  EW
+                           Long Range CAP
+                  Missile    Missile    Dogfight    Dogfight
+                   + EW       No EW       + EW       No  EW
 
-  TORNADO    -ADV   320/440    64/70      145/290      31/62
-  FALCON     -F16     NM        NM        115/230      29/58
-  TOMCAT     -F14   450/550    70/75      125/250      30/60
-  EAGLE      -F15   300/400    63/68      125/250      30/60
-  HARRIER    -AV8     NM        NM         65/130      27/54
-  FORGER     -Y36     NM        NM         55/110      26/53
-  FLOGGER    -M23   300/400    63/68      125/250      30/60
+TORNADO    -ADV   320/440    64/70      145/290      31/62
+FALCON     -F16     NM        NM        115/230      29/58
+TOMCAT     -F14   450/550    70/75      125/250      30/60
+EAGLE      -F15   300/400    63/68      125/250      30/60
+HARRIER    -AV8     NM        NM         65/130      27/54
+FORGER     -Y36     NM        NM         55/110      26/53
+FLOGGER    -M23   300/400    63/68      125/250      30/60
 
 
-                           Normal CAP
-                    Missile    Missile    Dogfight    Dogfight
-                     + EW       No EW       + EW       No  EW
+                         Normal CAP
+                  Missile    Missile    Dogfight    Dogfight
+                   + EW       No EW       + EW       No  EW
 
-  TORNADO    -ADV   110/200    25/50       35/70        25/50
-  FALCON     -F16     NM        NM         35/70        25/50
-  TOMCAT     -F14   160/300    27/55       35/70        25/50
-  EAGLE      -F15   110/200    25/50       35/70        25/50
-  HARRIER    -AV8     NM        NM         35/70        25/50
-  FORGER     -Y36     NM        NM         35/70        25/50
-  FLOGGER    -M23   110/200    25/50       35/70        25/50
+TORNADO    -ADV   110/200    25/50       35/70        25/50
+FALCON     -F16     NM        NM         35/70        25/50
+TOMCAT     -F14   160/300    27/55       35/70        25/50
+EAGLE      -F15   110/200    25/50       35/70        25/50
+HARRIER    -AV8     NM        NM         35/70        25/50
+FORGER     -Y36     NM        NM         35/70        25/50
+FLOGGER    -M23   110/200    25/50       35/70        25/50
 
-   + EW = Successful Early Warning
-   EW   = Unsuccessful Early Warning
-   NM   = Aircraft does not carry long-range missile
+ + EW = Successful Early Warning
+ EW   = Unsuccessful Early Warning
+ NM   = Aircraft does not carry long-range missile
 ```
 
 7.2 Search Missions
 -------------------
 A. Searches are performed automatically each turn by utility aircraft based on ships, carriers, or land bases. These aircraft will be listed on the Weapons display. The SURFACE/SUBMARINE search ranges for each type of aircraft are listed below:
 
-        HELICOPTER   4/3           RECONNAISSANCE   20/0
-        ASW          0/6           EARLY WARNING     8/0
+      HELICOPTER   4/3           RECONNAISSANCE   20/0
+      ASW          0/6           EARLY WARNING     8/0
 
 B. The success of a search attempt is affected by the number of aircraft searching and the distance to the enemy TF/submarine, and the number of ships in the enemy TF.
 
@@ -356,7 +386,6 @@ D. The computer will not list the contents of a submarine force or a surface TF 
 
 E. A TF with an asterisk by its number was located in a harbor.
 
-
 7.4 Launching Air Strikes
 -------------------------
 Enemy bases and enemy surface TFs sighted on the Search Display may be attacked by available friendly aircraft within range.
@@ -365,11 +394,11 @@ A. The computer will request a target for each friendly active airbase/carrier. 
 
 B. The following bases may be attacked by typing in the target numbers listed below or the first two letters of the base's name.
 
-         MURMANSK     1         ICELAND (SV)       6
-         RIGA         2         SCAPA FLOW        17
-         HAMBURG      3         FAROES (NATO)     18
-         BERGEN       4         ICELAND (NATO)    19
-         FAROES (SV)  5
+     MURMANSK     1         ICELAND (SV)       6
+     RIGA         2         SCAPA FLOW        17
+     HAMBURG      3         FAROES (NATO)     18
+     BERGEN       4         ICELAND (NATO)    19
+     FAROES (SV)  5
 
 C. For planning air strikes against enemy ships the computer will ask you to enter a stand-off range. If you enter a range greater than zero, then each fighter included in the strike will automatically carry air-to-air missiles and each bomber in the strike will automatically carry an air-to-surface missile. If you enter a range of zero, then for each type of fighter included in the air strike, you may substitute bombs for the air-to-air missiles. Bombers will automatically carry bombs when the stand-off range is zero. Aircraft may not be included in a strike if the stand-off range is greater than the range of the aircraft's AAM or ASM.
 
@@ -404,17 +433,17 @@ Aircraft transfers may be performed between airbases and/or carriers with the fo
 
 A. Only four air missions may be performed each turn.
 
-B. Transport aircraft (Starlifter, Cub) may only be included in transfer mission during the first two missions performed during AM turns only.
+B. Transport aircraft (`Starlifter`, `Cub`) may only be included in transfer mission during the first two missions performed during AM turns only.
 
 C. For transfer purposes, aircraft have their range tripled.
 
 7.6 Air Transport Operations
 ----------------------------
-Troops or supplies may be transferred between airbases, using transport aircraft (Starlifter, Cub).
+Troops or supplies may be transferred between airbases, using transport aircraft (`Starlifter`, `Cub`).
 
-A. Whenever a transport aircraft is included in an air transfer mission (see 7.5), the computer will ask TRANSPORT TROOPS OR SUPPLIES T/S. Press (T) to transport infantry; press (S) to transport supplies; press (RETURN) if you do not wish to transport any cargo.
+A. Whenever a transport aircraft is included in an air transfer mission (see 7.5), the computer will ask `TRANSPORT TROOPS OR SUPPLIES T/S. Press (T) to transport infantry; press (S) to transport supplies`; press (RETURN) if you do not wish to transport any cargo.
 
-B. Each transport may carry one company (100 men) of infantry. The number of supply units transferred in equal to the number of transport aircraft divided by the transfer range.
+B. Each transport may carry one company (`100` men) of infantry. The number of supply units transferred in equal to the number of transport aircraft divided by the transfer range.
 
 7.7 Airborne Assault
 --------------------
@@ -430,7 +459,7 @@ C. The airdropped infantry force will automatically be included in a level-5 att
 ---------------------------------
 A. Tfs may use SSMs or ASWs to attack enemy TFs/subs detected during the search phase. TFs in a harbor may not fire SSMs or ASWs nor may they be fired upon by SSMs or ASWs.
 
-B. If you select an enemy surface TF for a target, the computer will allow you to fire any of your ship's SSMs, if they are within range. The range of an SSM in squares is equal to its range in km divided by 100, fractions rounded up. The number of SSMs that may be fired in one turn by a particular ship/ sub may not exceed the maximum salvo number for that ship/sub.
+B. If you select an enemy surface TF for a target, the computer will allow you to fire any of your ship's SSMs, if they are within range. The range of an SSM in squares is equal to its range in km divided by `100`, fractions rounded up. The number of SSMs that may be fired in one turn by a particular ship/ sub may not exceed the maximum salvo number for that ship/sub.
 
 C. Range permitting, each ship in attacking TF which has no SSMs will automatically fire one of its SAMs at the target TF. This will only occur if the attacking TF is in Active-EW mode.
 
@@ -467,7 +496,7 @@ Each air strike is resolved in the following sequence:
 
 For stand-off missile strikes, segments 6 and 7 are omitted.
 
-A. Early Warning aircraft may detect incoming air strikes and missile strikes against targets up to 8 spaces (800 km) away from their bases. Successful detection is affected by the number of early warning aircraft available, the distance from the base to the target, and the stand-off range of the airstrike.
+A. Early Warning aircraft may detect incoming air strikes and missile strikes against targets up to `8` spaces (`800` km) away from their bases. Successful detection is affected by the number of early warning aircraft available, the distance from the base to the target, and the stand-off range of the airstrike.
 
 B. Long range AAM combat may occur if CAP or strike aircraft are equipped with Phoenix, AMRAAM or Apex missiles. The number of missiles each aircraft may fire is dependent on the type of missile as follows:
 
@@ -475,7 +504,7 @@ B. Long range AAM combat may occur if CAP or strike aircraft are equipped with P
     AMRAAM        2
     Apex          1
 
-AAMs fired by strike aircraft may acquire targets from any of the air groups performing Normal or Long-range CAP. AAMs fired by CAP aircraft may acquire targets from the Strike Group only. The success of each AAM fired is reduced by the ECM rating of the target aircraft and the ASW number of the target aircraft's base/carrier. Following each AAM combat. 50% of the firing aircraft in each participating CAP group will suffer missile depletion and be unable to fire at incoming air strikes occurring per that turn.
+AAMs fired by strike aircraft may acquire targets from any of the air groups performing Normal or Long-range CAP. AAMs fired by CAP aircraft may acquire targets from the Strike Group only. The success of each AAM fired is reduced by the ECM rating of the target aircraft and the ASW number of the target aircraft's base/carrier. Following each AAM combat. `50%` of the firing aircraft in each participating CAP group will suffer missile depletion and be unable to fire at incoming air strikes occurring per that turn.
 
 Fighter aircraft must be able to "lock-on" to their targets in order to fire their long-range AAMs. The chance of a successful lock-on is determined by the firing aircraft's RADAR strength. The chance of firing an enemy plane with a missile is affected by the ECM rating of the target aircraft:
 
@@ -505,19 +534,26 @@ D. Ships in the target TF may fire SAMs at the strike aircraft if the stand-off 
     SEADART      2         SA-N-3       2         SA-N-7      4
     SEASLUG      1
 
-The Aegis Cruisers, CG-Ticonderoga and CG-Yorktown, may fire 8 standard missiles at an air strike or missile strike. The target selection and missile resolution are the same as for AAM combat. Each time a ship fires SAMs, there is a chance it may exhaust its SAM supply. The supply of SAMs may only be replenished during refit time. The probability of SAM supply exhaustion, increases with the number of SAMs fired. There is a 50% chance that a particular ship will be unable to fire its SAMs at an air strike.
+The Aegis Cruisers, CG-Ticonderoga and CG-Yorktown, may fire 8 standard missiles at an air strike or missile strike. The target selection and missile resolution are the same as for AAM combat. Each time a ship fires SAMs, there is a chance it may exhaust its SAM supply. The supply of SAMs may only be replenished during refit time. The probability of SAM supply exhaustion, increases with the number of SAMs fired. There is a `50%` chance that a particular ship will be unable to fire its SAMs at an air strike.
 
 E. Bombers that survive CAP and SAM combat may release their ASMs. If stand-off range equals zero, strike aircraft will be attacked by flak before dropping their bombs. Surviving bombers will select a target ship from those in the target TF and attempt to penetrate the flak and deliver their ordnance. Target selection is accomplished in the following manner: Each ship is assigned a selection value (SV) equal to its defense factor plus Five times its cargo/aircraft capacity; the chance of a particular ship being attacked is equal to the SV of that ship divided by the combined SV of the target TF.
 
-F. The chance of a bomber being shot down by flak is equal to the TF flak strength plus the target's missile defense strength, divided by 500. The TF flak strength is equal to the combined AA (light gun) ratings of all ships in the TF. If there are more than 12 ships in the TF, the TF flak strength is equal to the average AA rating of the ships in the TF, multiplied by 12.
+F. The chance of a bomber being shot down by flak is equal to the TF flak strength plus the target's missile defense strength, divided by `500`. The TF flak strength is equal to the combined AA (light gun) ratings of all ships in the TF. If there are more than `12` ships in the TF, the TF flak strength is equal to the average AA rating of the ships in the TF, multiplied by `12`.
 
-G. The chance of a bomb hitting the target is affected by: (1) bomber accuracy, (2) maximum speed of target, (3) flak intensity, (4) range of the strike (5) size of the target, (6) the "radar" capability of the bomber (on M turns). The relative bomber accuracy/radar capabilities of the various aircraft are listed below:
+G. The chance of a bomb hitting the target is affected by: 
+
+    (1) bomber accuracy
+    (2) maximum speed of target
+    (3) flak intensity
+    (4) range of the strike (5) size of the target
+    (6) the "radar" capability of the bomber (on M turns)
+
+The relative bomber accuracy/radar capabilities of the various aircraft are listed below:
 
     TORNADO      14/9       CORSAIR    7/5       FLOGGER    1/4
     FALCON        6/4       INTRUDER  10/8       FENCER     9/7
     TOMCAT       10/8       HARRIER    6/2       BACKFIRE   5/5
     EAGLE        10/6       FORGER     3/1       BADGER     3/3
-
 
 8.2 Missile Resolution
 ----------------------
@@ -531,24 +567,29 @@ C. Missiles that survive all defensive fire may still be jammed by the target sh
 
 D. If all else fails, the missile may still miss the target. The hit or miss frequency depends on the missile's accuracy rating. Accuracy ratings for anti-ship missiles are listed below:
 
-       HARPOON     9*      SS-N-7        7*     SS-N-12       6
-       TOMAHAWK    9*      SS-N-2c       5      SS-N-19       7
-       EXOCET      9*      SS-N-3        4      AS-6          5*
-       WALLEYE     7       SS-N-22       7      AS-7          7
+     HARPOON     9*      SS-N-7        7*     SS-N-12       6
+     TOMAHAWK    9*      SS-N-2c       5      SS-N-19       7
+     EXOCET      9*      SS-N-3        4      AS-6          5*
+     WALLEYE     7       SS-N-22       7      AS-7          7
 
-       * indicates surface skimming.
+     * indicates surface skimming.
 
-D. The probability of anti-submarine missiles hitting their targets is affected by: (1) submarine speed, (2) submarine EW rating, (3) missile accuracy. The accuracy ratings of the various ASW missiles are listed below:
+D. The probability of anti-submarine missiles hitting their targets is affected by: 
 
-       ASROC     4       FRAS-1     4     SUBROC      4
-       SS-N-16   4       IKARA      3     SS-N-14     3
+    (1) submarine speed
+    (2) submarine EW rating
+    (3) missile accuracy
+The accuracy ratings of the various ASW missiles are listed below:
 
+     ASROC     4       FRAS-1     4     SUBROC      4
+     SS-N-16   4       IKARA      3     SS-N-14     3
 
 8.3 Surface Combat
 ------------------
-Surface combat may occur between opposing TFs that occupy the same space if at least one of the TFs is performing a combat patrol mission (C) and has an endurance of at least 9.
+Surface combat may occur between opposing TFs that occupy the same space if at least one of the TFs is performing a combat patrol mission (C) and has an endurance of at least `9`.
 
 A. Surface combat is resolved using the following sequence:
+
     (1) each Soviet ship in a TF performing a "C" mission will fire 
 		at one of the ships from one of the NATO TFs in the same space.
     (2) each NATO ship that occupies the same space as the attacking 
@@ -563,14 +604,19 @@ A. Surface combat is resolved using the following sequence:
 
 B. Target selection for surface combat is similar to that used for air attacks. In surface combat, a ship's selection value is equal to that ship's defense factor.
 
-C. When attacking each ship will: (1) fire torpedoes, (2) fire main guns, (3) fire light guns. Only Soviet ships armed with the 533MM torpedo may fire torpedoes during surface combat. The accuracy of torpedoes and gunfire is adjusted by the speed and size of the target.
+C. When attacking each ship will: 
 
+    (1) fire torpedoes
+    (2) fire main guns
+    (3) fire light guns
+
+Only Soviet ships armed with the `533MM` torpedo may fire torpedoes during surface combat. The accuracy of torpedoes and gunfire is adjusted by the speed and size of the target.
 
 8.4 Submarine Combat
 --------------------
 A. Submarines patrol an area up to two spaces away from their actual TF location.
 
-B. Each sub in a TF will have a chance to engage an enemy TF within its patrol area. The probability of engagement is affected by the sub's speed, sonar strength, and EW mode. Subs that have been detected by enemy search have their probability of engagement reduced by 2/3. The probability of engaging an enemy sub will be 1/4 that of engaging an enemy surface TF.
+B. Each sub in a TF will have a chance to engage an enemy TF within its patrol area. The probability of engagement is affected by the sub's speed, sonar strength, and EW mode. Subs that have been detected by enemy search have their probability of engagement reduced by `2/3`. The probability of engaging an enemy sub will be `1/4` that of engaging an enemy surface TF.
 
 C. The chance of engaging and torpedoing an enemy ship will be reduced by the number of ASW ships (sonar strength greater than zero) present in the defending TF.
 
@@ -580,25 +626,25 @@ E. After a submarine attack, the ASW ships in the target TF will attempt to trac
 
 F. The Range/Accuracy of the ASW and AST systems is listed below:
 
-       ASROC      20/4          MK48 TORPEDO         50/5
-       SUBROC     55/4          TIGERFISH TORPEDO    40/4
-       IKARA      20/3          533MM TORPEDO        20/3
-       FRAS-1     25/4          400MM TORPEDO         7/4
-       SS-N-14    50/3          MK46 TORPEDO         10/4
-       SS-N-16    75/4
+     ASROC      20/4          MK48 TORPEDO         50/5
+     SUBROC     55/4          TIGERFISH TORPEDO    40/4
+     IKARA      20/3          533MM TORPEDO        20/3
+     FRAS-1     25/4          400MM TORPEDO         7/4
+     SS-N-14    50/3          MK46 TORPEDO         10/4
+     SS-N-16    75/4
 
 
 8.5 Aircraft Returning to Base
 ------------------------------
 A. After completing their missions, aircraft will attempt to return to the same base or carrier from which they were launched.
 
-B. If launched from a carrier which received 26% or more damage or had its speed reduced below 15 knots, the aircraft will try to make an "emergency" landing on another carrier or airbase.
+B. If launched from a carrier which received `26%` or more damage or had its speed reduced below `15` knots, the aircraft will try to make an "emergency" landing on another carrier or airbase.
 
-C. Emergency landings will occur automatically if there is a friendly base or carrier within 3 squares of the origin carrier.
+C. Emergency landings will occur automatically if there is a friendly base or carrier within `3` squares of the origin carrier.
 
  CV-Invincible and CV-Ark Royal may only receive Harrier aircraft, CVG-Kiev and CVG-Minsk may only receive Forger aircraft.
 
-D. If an emergency landing is required and there are no eligible bases or carriers within 3 squares, then the aircraft will ditch in the ocean.
+D. If an emergency landing is required and there are no eligible bases or carriers within `3` squares, then the aircraft will ditch in the ocean.
 
 E. Aircraft which engaged in CAP, STRIKE or TRANSFER missions during the turn will suffer approximately 1% Non-Combat Losses for each mission. Troops and supplies being Air-Transported will also suffer the 1% loss.
 
@@ -607,14 +653,16 @@ E. Aircraft which engaged in CAP, STRIKE or TRANSFER missions during the turn wi
 ---------------
 Land combat may occur whenever both Soviet and NATO infantry are present on Iceland or Faroes. Land combat must be planned at the end of the previous movement phase.
 
-A. Land attack procedure is as follows: (1) defender forces open fire conflicting casualties on the attacker, (2) surviving attacker forces inflict casualties on the defender.
+A. Land attack procedure is as follows: 
 
-B. As a general rule, the greater the attack level (1-5), the greater the casualties on both sides. Attacks made without adequate supplies will suffer doubled casualties. Defensive fire from an unsupplied force will be half as effective.
+    (1) defender forces open fire conflicting casualties on the attacker
+    (2) surviving attacker forces inflict casualties on the defender
+
+B. As a general rule, the greater the attack level (`1-5`), the greater the casualties on both sides. Attacks made without adequate supplies will suffer doubled casualties. Defensive fire from an unsupplied force will be half as effective.
 
 C. The ultimate objective of land combat is to capture or defend the airfield and harbor facilities on Iceland or Faroes. If the Total Combat Strength (TCS) of the attacker is greater than the TCS of the defender, the airfield/ harbor may be captured. The attacker TCS is computed as (INF COMPANIES + GROUND SUPPORT POINTS) x RANDOM NUMBER. The defender is computed as INF COMPANIES + GROUND SUPPORT POINTS.
 
 D. It is possible that an airfield will be suppressed for one turn following an intense enemy assault. The message AIRFIELD UNDER HEAVY FIRE will signal the airfield's suppression. Air operations will not be allowed during the turn following the suppression message.
-
 
 8.7 Ground Support and Bombardment
 ----------------------------------
@@ -624,17 +672,23 @@ A. Bombers flying ground support over Iceland or Faroes add ground support point
 
 B. Battleship main guns are worth three ground support points each: all light guns are worth 1/2 ground support point each. Cruiser main guns are worth one ground support point each.
 
-C. Ground support points have the following effect on land combat: (1) each ground support point will suppress, on the average, one company worth of enemy defensive/offensive fire, (2) each ground support point will add, on the average, 1/2 company worth of friendly offensive/defensive fire.
+C. Ground support points have the following effect on land combat: 
 
-D. An aircraft's ground support capability is determined by: (1) the aircraft's bomb accuracy rating, and (2) the aircraft's radar rating on P.M. turns. During a ground support strike, each `<*>` burst displayed on the screen indicates 2 ground support hits (points) have been scored.
+    (1) each ground support point will suppress, on the average, one company worth of enemy defensive/offensive fire, 
+    (2) each ground support point will add, on the average, 1/2 company worth of friendly offensive/defensive fire
 
+D. An aircraft's ground support capability is determined by: 
+
+    (1) the aircraft's bomb accuracy rating
+    (2) the aircraft's radar rating on P.M. turns
+
+During a ground support strike, each `<*>` burst displayed on the screen indicates 2 ground support hits (points) have been scored.
 
 8.8 Repair and Refit Ships
 --------------------------
 A. Damaged ships which docked during the previous movement phase are placed in the Repair and Refit Pipelines. Undamaged ships will be placed in the refit pipeline only. A TF that docks with an endurance greater than 50 will not be required to refit. Refit time is three days.
 
-B. The average number of turns needed for repair is equal to 9 x DAMAGE POINTS SUFFERED. The number of damage points suffered is equal to the ship's DEFENSE FACTOR x DAMAGE PERCENTAGE. Repair time may be doubled for some ships with smaller ships having a greater chance of lengthened repair time. (There is a 71% chance that an average FF's repair time will be doubled while a U.S. Battleship has only a 5% chance of requiring double repair time.)
-
+B. The average number of turns needed for repair is equal to `9 x DAMAGE POINTS SUFFERED`. The number of damage points suffered is equal to the ship's `DEFENSE FACTOR x DAMAGE PERCENTAGE`. Repair time may be doubled for some ships with smaller ships having a greater chance of lengthened repair time. (There is a `71%` chance that an average FF's repair time will be doubled while a U.S. Battleship has only a `5%` chance of requiring double repair time.)
 
 8.9 Reinforcement Arrival
 -------------------------
@@ -660,7 +714,6 @@ D. NATO will automatically receive reinforcement option #3 following any turn in
 
 E. Reinforcements will not arrive during the Convoy QR44 or Iceland Scenarios.
 
-
 9.0 GENERAL OPERATIONS
 ======================
 
@@ -670,15 +723,15 @@ Ships accrue damage points when they are hit by bombs, torpedoes, missile or gun
 
 A. Listed below are the average damage points caused by each type of weapon:
 
-         Light (AA) gun      5            Walleye       12
-         CL Main gun         1            SS-N-2C        5
-         BB Main gun         7            SS-N-3        12
-         Torpedo             8            SS-N-7         9
-         Bomb                8            SS-N-12        9
-         SAM                 2            SS-N-19        8
-         Harpoon             4            AS-6          15
-         Tomahawk            7            AS-7           7
-         Exocet              7            SS-N-22        6
+     Light (AA) gun      5            Walleye       12
+     CL Main gun         1            SS-N-2C        5
+     BB Main gun         7            SS-N-3        12
+     Torpedo             8            SS-N-7         9
+     Bomb                8            SS-N-12        9
+     SAM                 2            SS-N-19        8
+     Harpoon             4            AS-6          15
+     Tomahawk            7            AS-7           7
+     Exocet              7            SS-N-22        6
 
 B. ASW or torpedo hits will always sink a submarine.
 
@@ -692,33 +745,31 @@ F. Carriers with 26% or more damage or maximum speed less than 15 knots may not 
 
 G. The U.S.N. Carriers with between 26% and 35% damage will attempt repairs until damage is reduced below 26%.
 
-
 9.2 TF Missions
 ---------------
 Listed below are the missions that may be assigned to a TF and the endurance allowed for each mission:
 
-              Mission              Endurance
-       C - Combat patrol      60 turns (30 days)
-       B - Bombardment        60 turns
-       T - Transport          60 turns
-       E - Evacuation         60 turns
-       U - Submarine          90 turns
-       R - Return               N/A
+            Mission              Endurance
+     C - Combat patrol      60 turns (30 days)
+     B - Bombardment        60 turns
+     T - Transport          60 turns
+     E - Evacuation         60 turns
+     U - Submarine          90 turns
+     R - Return               N/A
 
-A. Carriers may only perform "C" missions.
+A. Carriers may only perform "`C`" missions.
 
-B. AP,AK,AO,AE,AKR and AFS type ships may only perform "T" missions.
+B. `AP`,`AK`,`AO`,`AE`,`AKR` and `AFS` type ships may only perform "`T`" missions.
 
-C. LST,LHA,LPH,LPD type ships may only perform "T" or "E" missions.
+C. `LST`,`LHA`,`LPH`,`LPD` type ships may only perform "`T`" or "`E`" missions.
 
-D. SS,SSN and SSNG type ships may only perform "U" missions.
+D. `SS`,`SSN` and `SSNG` type ships may only perform "`U`" missions.
 
-E. Only TFs with a "C" mission may initiate surface combat. A TF may not initiate surface combat with endurance less than 9.
+E. Only TFs with a "`C`" mission may initiate surface combat. A TF may not initiate surface combat with endurance less than `9`.
 
-F. Surface combat may cause a Bombardment (B) TF to abort its mission. (An aborted "B" mission would change to "R".)
+F. Surface combat may cause a Bombardment (`B`) TF to abort its mission. (An aborted "B" mission would change to "`R`".)
 
-G. An evacuation (E) TF that docks at a friendly base will automatically load infantry into all LST, LPH, LHA and LPD type ships up to their capacity. Evacuation TFs that load infantry will have their mission changed to "T" and may then unload the troops normally at any harbor or port.
-
+G. An evacuation (`E`) TF that docks at a friendly base will automatically load infantry into all `LST`, `LPH`, `LHA` and `LPD` type ships up to their capacity. Evacuation TFs that load infantry will have their mission changed to "`T`" and may then unload the troops normally at any harbor or port.
 
 9.3 TF Endurance
 ----------------
@@ -726,14 +777,13 @@ A. TFs endurance is reduced by one for each turn that it spends at sea.
 
 B. TF that ends its move in a harbor will not have endurance reduced.
 
-C. A bombardment TF will have its endurance reduced by 10% for each turn that it provides bombardment support.
+C. A bombardment TF will have its endurance reduced by `10%` for each turn that it provides bombardment support.
 
 D. Surface combat reduces endurance as follows: The attacking TFs endurance is reduced to 8 (if currently greater than 8), if the defending TFs combined defensive factors multiplied by a random number between 0 and 1 is greater than 25. The defending TFs endurance is reduced to 8 (if currently greater than 8) if the total attacker defense factors multiplied by random number between 0 and 1 is greater than 25.
 
 E. If a TFs endurance reaches zero and it fails to dock during that turn, all its non-nuclear powered ships will have their speed reduced to 5 knots.
 
 F. Submarines with zero endurance may not fire torpedoes.
-
 
 9.4 Supply
 ----------
@@ -749,7 +799,6 @@ D. A TF that returns to port with an endurance greater than 30 will return a unu
 
 E. Airbases consume one supply point for each air strike launched. CAP, search and transfer missions do not consume supply points. If a base's supply level falls below three. CAP and search missions may not be flown.
 
-
 9.5 Scoring
 -----------
 A. Players receive victory points (VPs) for sinking enemy ships equal to the ship's defense factor plus its cargo/aircraft capacity. Players receive one VP for each damage point inflicted on an enemy ship at sea at the end of the game. Players also receive one VP for each week a ship is out of operation at the end of the game (less three days for normal refits). A ship that scuttled is worth one less victory point than one that sinks on its own.
@@ -764,14 +813,13 @@ E. The current score is summarized at the beginning of each turn.
 
 F. Subtract Soviet VPs from NATO VPs and compare the results to the following table to determine the victory level:
 
-           1000 and up         NATO Decisive Victory
-           500 to 999          NATO Substantive Victory
-           100 to 499          NATO Marginal Victory
-           -99 to 99           Draw
-           -499 to -100        Soviet Marginal Victory
-           -999 to -500        Soviet Substantive Victory
-           -1000 and less      Soviet Decisive Victory
-
+     1000 and up         NATO Decisive Victory
+     500 to 999          NATO Substantive Victory
+     100 to 499          NATO Marginal Victory
+     -99 to 99           Draw
+     -499 to -100        Soviet Marginal Victory
+     -999 to -500        Soviet Substantive Victory
+     -1000 and less      Soviet Decisive Victory
 
 9.6 Weather
 -----------
@@ -785,15 +833,13 @@ C. During storm, turns all surface TFs will have their speed restrict to 5 knots
 
 D. The light blue area at the top of the map is the Iceberg Zone. Surface TFs must stop upon entering an iceberg square. Submarines are unaffected by iceberg areas. The iceberg areas will expand southward as the game progresses.
 
-
 9.7 Airbase Capacity
 --------------------
 The maximum combat aircraft capacity for each airbase is listed below:
 
-      Iceland    80     Hamburg      600       Riga     900
-      Faroes     60     Scapa Flow   900       America  900
-      Bergen    500     Murmansk     900
-
+    Iceland    80     Hamburg      600       Riga     900
+    Faroes     60     Scapa Flow   900       America  900
+    Bergen    500     Murmansk     900
 
 9.8 NATO Morale
 ---------------
@@ -812,16 +858,13 @@ A. During the Campaign Scenarios, any amphibious or cargo ships sunk will be rep
 
 B. Sunk cargo ships (including amphibious) will not be listed on the sunk ship display for campaign scenarios. Points for sunk cargo ships will be included in the score displayed before each turn.
 
-
 9.10 Airfield Repair
 --------------------
 When an Airfield is captured it will take between 1-3 days to bring the airfield to operational status.
 
-
 9.11 NATO Carrier Early Arrival
 -------------------------------
 If between October 1 and November 10 the NATO player is reduced to less than two American carriers at sea or in the pipeline for less than 5 days, then the pipeline time of the CV-Kitty Hawk is reduced to five days. In this event the Soviet player is awarded 50 victory points.
-
 
 10.0 GAME DURATION
 ==================
@@ -831,12 +874,10 @@ If between October 1 and November 10 the NATO player is reduced to less than two
 Campaign games will end after a specified number of turns:
 Campaign 1 - 252 turns, Campaign 2 - 122 turns.
 
-
 10.2 Mini-Game Duration
 -----------------------
 Mini-games will end after a specified number of turns.  Mini-game
 durations are as follows: Convoy QR.44 - 12 turns, Iceland - 20 turns.
-
 
 11.0 SOLITAIRE PLAY
 ===================
@@ -848,7 +889,6 @@ B. It is possible to start a game in solitaire mode, save it and then restart it
 
 C. It is possible to save a two-player game and restart it as a solitaire game, subject to the following restriction. All Soviet TFs must end the two- player segment IN-PORT.
 
-
 12.0 TWO-PLAYER GAMES
 =====================
 When using the two-player format, the following procedure should be observed.
@@ -858,7 +898,6 @@ A. While the NATO player is giving commands to his forces, the Soviet player sho
 B. While the Soviet player is giving commands to his forces, the NATO player should turn away or leave the room.
 
 C. During the combat resolution phase, both players should view the results.
-
 
 13.0 ORDER OF BATTLE
 ====================
@@ -918,7 +957,6 @@ AT SEA          0          0         24		2CVG 2CGN 4CG 1CL 9DDG
 											3FFG 5FF 13SSN 12SSNG
 ```
 
-
 CAMPAIGN.1
 ----------
 ```
@@ -951,7 +989,6 @@ HAMBURG         0        500         96
 BERGEN        90000      300       342(255)
 AT SEA          0          0          0		11SSN 14SSNG
 ```
-
 
 COMPAIGN.2
 ----------
@@ -988,12 +1025,11 @@ AT SEA          0          0          0		12SSN 20SSNG
 
 * Includes carrier planes
 ```
-
-
 14.0 SHIP DATA
+====================
 
 Abbreviations:
-
+```
     MG     Main Guns
     AA     Secondary Guns
     MD     Missile Defense
@@ -1005,8 +1041,7 @@ Abbreviations:
     CLASS  Ship Class (Ships of the same class will have all of the same
            ratings including missiles, EW strength, etc.)
     ID     Ship Identification Number
-
-
+```
 ```
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 CV-INVINCIBLE      0    0   60   25   12   20   20     0     4   146
@@ -1030,7 +1065,6 @@ CG-BIDDLE          0    1   30   35    0   10   16    25    27   163
 CG-WORDEN          0    0   30   35    0   12   16    25    28   164
 CG-GRIDLEY         0    0   30   35    0   12   16    50    28   165
 
-
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 CG-HALSEY          0    0   30   35    0   12   16    55    28   166
 CG-REEVES          0    0   30   35    0   12   16    55    28   167
@@ -1052,7 +1086,6 @@ DDG-CALLAGHAN      0    2   30   35    0   14   16    50    34   182
 DDG-CHANDLER       0    2   30   35    0   14   16    50    34   183
 DDG-COCHRANE       0    2    0   30    0    8   16     7    35   184
 DDG-WADDELL        0    2    0   30    0    8   16     7    35   185
-
 
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 DDG-FARRAGUT       0    1    0   35    0   10   16    15    36   186
@@ -1076,7 +1109,6 @@ FF-BRILLIANT       0    0   22   30    0    8   20     0    56   203
 FF-BRAZEN          0    0   22   30    0    8   20     0    56   204
 FF-BOXER           0    0   22   30    0    8   20     0    56   205
 
-
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 FF-AMAZON          0    1    7   30    0    7   20     0    57   206
 FF-ACTIVE          0    1    7   30    0    7   20     0    57   207
@@ -1098,7 +1130,6 @@ FF-SIRIUS          0    0   12   25    0    7   16     0    59   222
 FF-ARGONAUT        0    0   12   25    0    7   16     0    59   223
 FF-DANAE           0    0   12   25    0    7   16     0    59   224
 FF-PENELOPE        0    0   12   25    0    7   20     0    59   225
-
 
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 FF-APOLLO          0    0   12   25    0    7   20     0    59   226
@@ -1122,7 +1153,6 @@ FF-AINSWORTH       0    1   15   25    0    7   16     5    55   243
 FF-BARBEY          0    1   15   25    0    7   16    10    55   244
 FF-VALDEZ          0    1   15   25    0    7   16    10    55   245
 
-
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 FF-TRUETT          0    1   15   25    0    7   16    20    55   246
 LPD-FEARLESS       0    0   22   20    6   14   16    15    61   247
@@ -1144,7 +1174,6 @@ LST-NEWPORT        0    0   22   20    6   14   16    25    61   262
 LST-BOULDER        0    0   22   20    6   14   16    25    61   263
 LST-SUMTER         0    0   22   20    6   14   16     0    61   264
 AKR-COMET          0    0    0   20   12   12   16     0    68   265
-
 
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 AKR-METEOR         0    0    0   20   12   12   16     0    68   266
@@ -1168,7 +1197,6 @@ SSN-VALIANT        0    0    0   25    0   30   21     0    80   283
 SSN-WARSPITE       0    0    0   25    0   30   21     0    80   284
 SSN-PHILADELPHIA   0    0    0   35    0   30   22     0    77   285
 
-
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 SSN-MEMPHIS        0    0    0   35    0   30   16    50    77   286
 SSN-CINCINNATI     0    0    0   35    0   30   16    50    77   287
@@ -1191,7 +1219,6 @@ SSN-CAVALLA        0    0    0   30    0   30   16    40    78   303
 SSN-RIVERS         0    0    0   30    0   30   16    40    78   304
 SS-ODIN            0    0    0   15    0   10   23     0    81   305
 
-
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 SS-ORPHEUS         0    0    0   15    0   10   23     0    81   306
 SS-OLYMPUS         0    0    0   15    0   10   23     0    81   307
@@ -1204,12 +1231,11 @@ SS-ONYX            0    0    0   15    0   10   16     5    81   313
 SS-SEA LION        0    0    0   15    0   10   16     5    81   314
 
 AK CLASS TRANSPORT 0    0    2   20    4    7   16    -     -     -
+```
 
-
-
+```
 SOVIET UNION
 ------------
-
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 CVG-KIEV           0    4   94   30   15   50    1     0     3     7
 CVG-MINSK          0    4   94   30   15   50    1     0     3     8
@@ -1254,7 +1280,6 @@ FF-IZUMRUD         0    2   17   35    0    5    1     0    52    44
 FF-RUBIN           0    2   17   35    0    5    1     0    52    45
 FF-SAFFIR          0    2   17   35    0    5    1     0    52    46
 
-
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 FF-ZHEMCHUG        0    2   17   35    0    5    1     0    52    47
 FF-BARSUK          0    4    4   30    0    5    1     0    53    48
@@ -1276,7 +1301,6 @@ LST-SHAKHTER       0    4    0   15    4    6    1     0    67    63
 LST-PRESNYA        0    4    0   15    4    6    1     0    67    64
 LST-FILCHENKOV     0    4    0   15    4    6    1     0    67    65
 LST-VILKOV         0    4    0   15    4    6    1     0    67    66
-
 
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 LST-OBYEKOV        0    4    0   15    4    6    1     0    67    67
@@ -1300,7 +1324,6 @@ SSNG-E12           0    0    0   20    0   30    8     0    73    84
 SSNG-E13           0    0    0   20    0   30    8     0    73    85
 SSNG-E14           0    0    0   20    0   30    8     0    73    86
 
-
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 SSNG-E15           0    0    0   20    0   30    8     0    73    87
 SSNG-E16           0    0    0   20    0   30    8     0    73    88
@@ -1323,7 +1346,6 @@ SSN-A5             0    0    0   45    0   40    1    10    74   104
 SSN-V2             0    0    0   30    0   30    1    10    75   105
 SSN-V3             0    0    0   30    0   30    1    10    75   106
 
-
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 SSN-V4             0    0    0   30    0   30    1    10    75   107
 SSN-V5             0    0    0   30    0   30    1    10    75   108
@@ -1345,7 +1367,6 @@ SSN-V20            0    0    0   30    0   30    1     0    75   123
 SSN-V21            0    0    0   30    0   30    1     0    75   124
 SSN-V22            0    0    0   30    0   30    1     0    75   125
 SSN-V23            0    0    0   30    0   30    1     0    75   126
-
 
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 SSN-V24            0    0    0   30    0   30    1    20    75   127
@@ -1372,7 +1393,12 @@ AK CLASS TRANSPORT 0    0    2   20    4    7    2    -     -     -
 
 SOVIET STRATEGY
 ---------------
-Soviet strategic goals are: (1) capture and hold the strategic airfields on Iceland and Faroes: (2) reduce or destroy NATO supply convoys to Great Britain. Control of Iceland and Faroes is worth 500 VPs each, while a prolonged supply shortage in Britain is worth 1000 VPs.
+Soviet strategic goals are: 
+
+    (1) capture and hold the strategic airfields on Iceland and Faroes
+    (2) reduce or destroy NATO supply convoys to Great Britain. 
+
+Control of Iceland and Faroes is worth `500` VPs each, while a prolonged supply shortage in Britain is worth `1000` VPs.
 
 FAROES
 ------
@@ -1380,19 +1406,28 @@ Faroes Island may be easily captured by a coordinated Soviet airborne assault. W
 
 ICELAND
 -------
-The Soviets may employ two methods for capturing Iceland: (1) Airborne Assault or (2) combined Airborne/Amphibious Assault. Method (1) should be attempted on the first turn of the game, before NATO army in reinforcements. All Backfire and Badger bombers within range should fly ground support (a mission for which they are not well suited). With luck the airfield can be captured or suppressed on the first turn and a second wave of Soviet airborne troops can be dropped on the island. A 3:1 Soviet edge in troop strength will usually guarantee the capture of the airfield and the eventual destruction at the NATO garrison.
+The Soviets may employ two methods for capturing Iceland: 
 
-Should the Soviets fail to capture or suppress the airfield on the first turn then NATO can fly in 10,000 troops and 44 additional combat aircraft for the second round of combat. If NATO reinforcements are allowed to fly, in the Soviets will find themselves out of supply and outclassed in the air, with only a marginal superiority in troop strength. This situation will usually result in the complete destruction of the assault force over a period of one or two weeks.
+    (1) Airborne Assault
+    (2) combined Airborne/Amphibious Assault
+
+Method (1) should be attempted on the first turn of the game, before NATO army in reinforcements. All Backfire and Badger bombers within range should fly ground support (a mission for which they are not well suited). With luck the airfield can be captured or suppressed on the first turn and a second wave of Soviet airborne troops can be dropped on the island. A 3:1 Soviet edge in troop strength will usually guarantee the capture of the airfield and the eventual destruction at the NATO garrison.
+
+Should the Soviets fail to capture or suppress the airfield on the first turn then NATO can fly in 10,000 troops and 44 additional combat aircraft for the second round of combat. If NATO reinforcements are allowed to fly in, the Soviets will find themselves out of supply and outclassed in the air, with only a marginal superiority in troop strength. This situation will usually result in the complete destruction of the assault force over a period of one or two weeks.
 
 Method (2) requires the coordination of airborne and amphibious forces for an assault on Iceland. The advantage of this method is that it allows the Soviets to deliver their assault while in supply. The disadvantage is that the NATO player can easily react to the threat as the amphibious convoy makes its approach.
 
-The Amphibious Assault effort should include three TFs: (1) and amphibious/ transport TF; (2) a bombardment TF; and (3) a Combat Patrol TF.
+The Amphibious Assault effort should include three TFs: 
 
-The amphibious TF should include all available LPD, LST and AP type ships and an escort of best ASW type ships (Kara and Kresta-II class CGs and Krivak class FFGs). The amphibious TF should transport only supplies! The bombardment TF should include the two CLs and a screen of 6 to 8 heavily gunned DDGs, DDs and FFs.
+    (1) an amphibious/transport TF
+    (2) a bombardment TF
+    (3) a Combat Patrol TF
 
-The Combat Patrol TF should include all surface ships armed with SSMs.
+The amphibious TF should include all available `LPD`, `LST` and `AP` type ships and an escort of best `ASW` type ships (Kara and Kresta-II class CGs and Krivak class FFGs). The amphibious TF should transport only supplies! The bombardment TF should include the two `CLs` and a screen of 6 to 8 heavily gunned `DDG`s, `DD`s and `FF`s.
 
-The three TFs should move together on the shortest possible course to Iceland. Drop paratroops on Iceland on the same turn that the amphibious TF starts to unload. Continue dropping troops until there are over 60,000 on Iceland. Badgers and Backfires from Bergen and Fencers from Faroes should fly ground support if possible.
+The Combat Patrol TF should include all surface ships armed with `SSMs`.
+
+The three TFs should move together on the shortest possible course to Iceland. Drop paratroops on Iceland on the same turn that the amphibious TF starts to unload. Continue dropping troops until there are over `60,000` on Iceland. Badgers and Backfires from Bergen and Fencers from Faroes should fly ground support if possible.
 
 The assault on Iceland is not a sure thing. Submarines and bombers can wreck your amphibious ships and Iceland's CAP can chew up your air transports. However, with a little luck a well planned assault can overwhelm NATO defenses.
 
@@ -1412,19 +1447,22 @@ The Soviet player must use his land based air force to reduce the build-up of su
 
 NATO STRATEGY
 -------------
-NATO strategic objectives are: (1) maintain a sufficient supply level on Great Britain and (2) maintain or regain control of the airfields on Faroes and Iceland.
+NATO strategic objectives are: 
+
+    (1) maintain a sufficient supply level on Great Britain
+    (2) maintain or regain control of the airfields on Faroes and Iceland
 
 FAROES
 ------
-The Faroes garrison cannot establish an effective defense early in the game. Massive air strikes from Bergen will reduce supplies to nothing and chew up the defending CAP. It may be worth while to evacuate the 8000 man garrison by air.
+The Faroes garrison cannot establish an effective defense early in the game. Massive air strikes from Bergen will reduce supplies to nothing and chew up the defending CAP. It may be worth while to evacuate the `8000` man garrison by air.
 
 NATO Forces should attempt to recapture Faroes only after the maximum number of aircraft carriers and amphibious ships are available and Iceland is under NATO control.
 
 ICELAND
 -------
-The NATO player has some chance of thwarting the Soviet invasion of Iceland. To defend Iceland the NATO player must add 300 or more companies of reinforcements and maintain an adequate flow of supplies to the garrison. NATO supply ships must deliver at least 50 supply dumps per week to Iceland to sustain an effective defense.
+The NATO player has some chance of thwarting the Soviet invasion of Iceland. To defend Iceland the NATO player must add `300` or more companies of reinforcements and maintain an adequate flow of supplies to the garrison. NATO supply ships must deliver at least `50` supply dumps per week to Iceland to sustain an effective defense.
 
-NATO can base up to 80 combat aircraft on Iceland. These aircraft can bomb Soviet transports as they approach, provide CAP to shoot down Soviet bombers and air transport and provide ground support after the Soviet troops have landed.
+NATO can base up to `80` combat aircraft on Iceland. These aircraft can bomb Soviet transports as they approach, provide CAP to shoot down Soviet bombers and air transport and provide ground support after the Soviet troops have landed.
 
 If the Soviets gain a substantial numerical advantage in troops over the Iceland garrison the NATO player should consider evacuating his aircraft. Soviet land attacks may bring the airfield under fire and ground NATO aircraft on the following turn. Beware the possibility of losing the airfield before the combat aircraft can be evacuated.
 
@@ -1433,17 +1471,23 @@ The NATO player should not risk too much to defend Iceland. NATO can usually rec
 AMPHIBIOUS OPERATIONS
 ---------------------
 Amphibious operations should include all available ships in the NATO
-fleet divided into Task Forces as follows: 1 or 2 (C) carrier TFs, 1
-(B) bombardment TF, 1 (T) amphibious/transport TF, 1 to 3 submarine
-groups.  Some examples of TF composition are listed below:
+fleet divided into Task Forces as follows: 
+    
+    1 or 2 (C) carrier TFs
+    1 (B) bombardment TF
+    1 (T) amphibious/transport TF
+    1 to 3 submarine groups.  
 
-(C) CVN-CVN-CGN-CGN-CGN-CGN-DDG-DDG-DD-DD-FFG-FFG-FF-FF
-(C) CV-CV-CG-CG-CG-CG-DDG-DDG-DD-DD-FFG-FFG-FF-FF
-(B) BB-BB-DDG-DDG-DD-DD-FF-FF-FF-FF
-(T) CG-DDG-DDG-DDG-DDG-DD-DD-FFG-FFG-FF-FF-FF-FF-all amphibious and
-    transports
-(U) SSN-SSN-SSN-SSN-SSN-SSN
-(U) SS-SS-SS-SS-SS-SS
+Some examples of TF composition are listed below:
+
+    (C) CVN-CVN-CGN-CGN-CGN-CGN-DDG-DDG-DD-DD-FFG-FFG-FF-FF
+    (C) CV-CV-CG-CG-CG-CG-DDG-DDG-DD-DD-FFG-FFG-FF-FF
+    (B) BB-BB-DDG-DDG-DD-DD-FF-FF-FF-FF
+    (T) CG-DDG-DDG-DDG-DDG-DD-DD-FFG-FFG-FF-FF-FF-FF-all amphibious and
+        transports
+    (U) SSN-SSN-SSN-SSN-SSN-SSN
+    (U) SS-SS-SS-SS-SS-SS
+
 All surface TFs should move together on the voyage to the objective, Tomcats from the escorting carriers should fly long ranged CAP. Intruders and Corsairs should pound the objective airfield during the approach and provide ground support after the troops land. Starlifters based at Scapa Flow should drop paratroops on the objective in conjunction with the amphibious landing. The bombardment TF should be moved into the objective square to add to the ground support effect.
 
 Barring disaster, a well coordinated NATO assault can overwhelm the best prepared Soviet defense. Disasters can happen of course. The loss of one or more carriers to freak missile or torpedo hits can turn a smooth operation into a very hairy experience.
@@ -1458,10 +1502,9 @@ The majority of the British fleet starts the game based on Iceland. Some or all 
 
 THE BATTLE OF BRITAIN
 ---------------------
-The NATO player should attempt to maintain an effective air presence in Scapa Flow. Soviet bombing raids with less than a 2:1 advantage in fighters will consistently suffer heavy losses in daylight attacks. Soviet night bombing raids will suffer fewer losses but the bomb accuracy of the Fencer is reduced by 30%.
+The NATO player should attempt to maintain an effective air presence in Scapa Flow. Soviet bombing raids with less than a `2:1` advantage in fighters will consistently suffer heavy losses in daylight attacks. Soviet night bombing raids will suffer fewer losses but the bomb accuracy of the Fencer is reduced by `30%`.
 
 When NATO air strength on Scapa Flow falls below 30 fighters then all air- craft except the Harriers should be withdrawn to America.
-
 
 16.0 CREDITS
 ============
@@ -1470,7 +1513,6 @@ Game Design and Programming - Gary Grigsby
 Game Development - Joel Billings
 Customized Disc Operating System - Roland Gustafsson
 Art & Graphic Design - Louis Saekow, Kathy Lee, and Kevin Heney
-
 
 17.0 HISTORICAL NOTES
 =====================
@@ -1614,33 +1656,32 @@ Startlifter  -C141     2500           none               -
 AVG./MAX. INTERCEPTION RANGES
 -----------------------------
 ```
+                        Long Range CAP
+                   Missile       Missile      Dogfight    Dogfight
+                    + EW         No EW         + EW       No  EW
 
-                          Long Range CAP
-                     Missile       Missile      Dogfight    Dogfight
-                      + EW         No EW         + EW       No  EW
-
-  TORNADO    -ADV    320/440       64/70        145/290       31/62
-  FALCON     -F16      NM           NM          115/230       29/58
-  TOMCAT     -F14    450/550       70/75        125/250       30/60
-  EAGLE      -F15    300/400       63/68        125/250       30/60
-  HARRIER    -AV8      NM           NM           65/130       27/54
-  FORGER     -Y36      NM           NM           55/110       26/53
-  FLOGGER    -M23    300/400       63/68        125/250       30/60
+TORNADO    -ADV    320/440       64/70        145/290       31/62
+FALCON     -F16      NM           NM          115/230       29/58
+TOMCAT     -F14    450/550       70/75        125/250       30/60
+EAGLE      -F15    300/400       63/68        125/250       30/60
+HARRIER    -AV8      NM           NM           65/130       27/54
+FORGER     -Y36      NM           NM           55/110       26/53
+FLOGGER    -M23    300/400       63/68        125/250       30/60
 
 
-                         Normal CAP
-                     Missile       Missile      Dogfight    Dogfight
-                      + EW         No EW         + EW       No  EW
+                       Normal CAP
+                   Missile       Missile      Dogfight    Dogfight
+                    + EW         No EW         + EW       No  EW
 
-  TORNADO    -ADV    110/200       25/50         35/70        25/50
-  FALCON     -F16      NM           NM           35/70        25/50
-  TOMCAT     -F14    160/300       27/55         35/70        25/50
-  EAGLE      -F15    110/200       25/50         35/70        25/50
-  HARRIER    -AV8      NM           NM           35/70        25/50
-  FORGER     -Y36      NM           NM           35/70        25/50
-  FLOGGER    -M23    110/200       25/50         35/70        25/50
+TORNADO    -ADV    110/200       25/50         35/70        25/50
+FALCON     -F16      NM           NM           35/70        25/50
+TOMCAT     -F14    160/300       27/55         35/70        25/50
+EAGLE      -F15    110/200       25/50         35/70        25/50
+HARRIER    -AV8      NM           NM           35/70        25/50
+FORGER     -Y36      NM           NM           35/70        25/50
+FLOGGER    -M23    110/200       25/50         35/70        25/50
 
-   + EW = Successful Early Warning
-     EW = Unsuccessful Early Warning
-     NM = Aircraft does not carry long-range missile
+ + EW = Successful Early Warning
+   EW = Unsuccessful Early Warning
+   NM = Aircraft does not carry long-range missile
 ```
