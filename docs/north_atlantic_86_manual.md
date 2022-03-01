@@ -424,7 +424,8 @@ Badger       -TU16     1800           A-6               300
 Cub          -AN12     2500           none               -
 Startlifter  -C141     2500           none               -
 
-* 100 added to range of long range AAMs to aid in calculating interception range.
+* 100 added to range of long range AAMs to aid in calculating 
+  interception range.
 ```
 
 7.5 Aircraft Transfers
@@ -883,21 +884,17 @@ durations are as follows: Convoy QR.44 - 12 turns, Iceland - 20 turns.
 ===================
 When playing solitaire games, the computer will command the Soviet Forces.
 
-A. There are four levels of solitaire difficulty. The level of difficulty is determined at the start of the game. At level 3, the Soviets will perform according to their normal accuracy. As the level number is decreased, the Soviet bomber, torpedo and gunfire accuracy will increase. These levels may be used to handicap a two-player game if desired.
-
-B. It is possible to start a game in solitaire mode, save it and then restart it as a two player game. To do this, set the main menu to two player mode before restarting the saved game.
-
-C. It is possible to save a two-player game and restart it as a solitaire game, subject to the following restriction. All Soviet TFs must end the two- player segment IN-PORT.
+    A. There are four levels of solitaire difficulty. The level of difficulty is determined at the start of the game. At level 3, the Soviets will perform according to their normal accuracy. As the level number is decreased, the Soviet bomber, torpedo and gunfire accuracy will increase. These levels may be used to handicap a two-player game if desired.
+    B. It is possible to start a game in solitaire mode, save it and then restart it as a two player game. To do this, set the main menu to two player mode before restarting the saved game.
+    C. It is possible to save a two-player game and restart it as a solitaire game, subject to the following restriction. All Soviet TFs must end the two- player segment IN-PORT.
 
 12.0 TWO-PLAYER GAMES
 =====================
 When using the two-player format, the following procedure should be observed.
 
-A. While the NATO player is giving commands to his forces, the Soviet player should turn away or leave the room.
-
-B. While the Soviet player is giving commands to his forces, the NATO player should turn away or leave the room.
-
-C. During the combat resolution phase, both players should view the results.
+    A. While the NATO player is giving commands to his forces, the Soviet player should turn away or leave the room.
+    B. While the Soviet player is giving commands to his forces, the NATO player should turn away or leave the room.
+    C. During the combat resolution phase, both players should view the results.
 
 13.0 ORDER OF BATTLE
 ====================
@@ -1564,9 +1561,8 @@ SEPTEMBER 1  - British Fleet relocates in Iceland.
 SEPTEMBER 6  - British Prime Minister vows to continue fighting.
 ```
 
-NORTH ATLANTIC '86
-REFERENCE CHARTS
-==================
+NORTH ATLANTIC '86 REFERENCE CHARTS
+===================================
 
 DAMAGE POINTS
 -------------
