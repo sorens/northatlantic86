@@ -914,7 +914,7 @@ NATO
 ----
 AMERICA       40000      900       48(100)
 SCAPA FLOW      0         25         15
-AT SEA          0        148        120    	2CVN 2CGN 8DDG 3DD 7FFG 
+AT SEA          0        148        120     2CVN 2CGN 8DDG 3DD 7FFG 
                                             19FF 4AKR 2AO 2AK 3AE 
                                             15SSN
 
@@ -926,7 +926,7 @@ HAMBURG         0        500          0
 BERGEN        10000      300       180(225)
 FAROES        30000       30         60
 ICELAND       40000        0          0
-AT SEA          0          0         24    	2CVG 2CGN 7CG 7DDG 5FFG
+AT SEA          0          0         24     2CVG 2CGN 7CG 7DDG 5FFG
                                             9SSN 12SSNG
 ```
 
@@ -941,8 +941,8 @@ NATO
 ----
 AMERICA       40000      900       48(130)
 SCAPA FLOW      0         50         36
-AT SEA        13600       74        120    	 1CVN 1CV 2BB 4CGN 10CG 
-                                            12DDG 8DD 7FFG 12FF 6LPD
+AT SEA        13600       74        120      1CVN 1CV 2BB 4CGN 10CG 
+                                             12DDG 8DD 7FFG 12FF 6LPD
                                              8LST 2LHA 2LPH 4AKR
 
 SOVIET
@@ -953,7 +953,7 @@ HAMBURG         0        500       96(225)
 BERGEN        10000      300        180
 FAROES        30000       30         60
 ICELAND       40000       30         50
-AT SEA          0          0         24		2CVG 2CGN 4CG 1CL 9DDG
+AT SEA          0          0         24     2CVG 2CGN 4CG 1CL 9DDG
                                             3FFG 5FF 13SSN 12SSNG
 ```
 
@@ -967,7 +967,7 @@ BASE         INFANTRY  SUPPLIES  (TRANSPORTS)             SHIPS
 
 NATO
 ----
-AMERICA       40000      900       48(100) 	2CVN 2CV 2BB 4CGN 10CG 
+AMERICA       40000      900       48(100)  2CVN 2CV 2BB 4CGN 10CG 
                                             11DDG 10DD 10FFG 24FF 
                                             6LPD 8LST 2LHA 2LPH 4AKR 
                                             2AO 2AK 4AE 2AFS 16SSN 5SS
@@ -976,18 +976,18 @@ SCAPA FLOW    24000       50         72
 (MORALE 100)
 FAROES         8000       20         24
 ICELAND       12000       20         36
-AT SEA          0          0         17		2CV 13DDG 11FF 10SSN 5SS
+AT SEA          0          0         17     2CV 13DDG 11FF 10SSN 5SS
 
 
 SOVIET
 ------
-MURMANSK      40000      900         48*   	2CVG 2CGN 2CG 2CL 16DDG 
+MURMANSK      40000      900         48*    2CVG 2CGN 2CG 2CL 16DDG 
                                             2DD 5FFG 9FF 8AP 2LPD 
                                             10LST 21SSN
-RIGA            0        500          0		14SSNG 10SS
+RIGA            0        500          0     14SSNG 10SS
 HAMBURG         0        500         96
 BERGEN        90000      300       342(255)
-AT SEA          0          0          0		11SSN 14SSNG
+AT SEA          0          0          0     11SSN 14SSNG
 ```
 
 COMPAIGN.2
@@ -1000,28 +1000,27 @@ BASE         INFANTRY  SUPPLIES  (TRANSPORTS)             SHIPS
 
 NATO
 ----
-AMERICA       40000      900      168*(120)	1CVN 2CV 2BB 4CGN 10CG 
+AMERICA       40000      900      168*(120) 1CVN 2CV 2BB 4CGN 10CG 
                                             12DDG 8DD 7FFG 18FF 6LPD 
                                             8LST 2LHA 2LPH 4AKR 2AE 
                                             2AFS 6AK 9SSN 6SS
 SCAPA FLOW    24000       10         48
 (MORALE 40)
-AT SEA          0          0          0		15SSN
+AT SEA          0          0          0     15SSN
 
 
 
 SOVIET
 ------
-MURMANSK      10000      900         48*	2CVG 2CGN 5CG 2CL 12DDG 
+MURMANSK      10000      900         48*    2CVG 2CGN 5CG 2CL 12DDG 
                                             3FFG 9FF 3AP 2LPD 6LST 
                                             16SSN 25SNG 10SS
-RIGA            0        500          0		9AK
+RIGA            0        500          0     9AK
 HAMBURG         0        500         96
 BERGEN        10000      300        192
 FAROES        30000       30         60
 ICELAND       40000       30         50
-AT SEA          0          0          0		12SSN 20SSNG
-
+AT SEA          0          0          0     12SSN 20SSNG
 
 * Includes carrier planes
 ```
@@ -1031,18 +1030,19 @@ AT SEA          0          0          0		12SSN 20SSNG
 
 Abbreviations:
 ```
-    MG     Main Guns
-    AA     Secondary Guns
-    MD     Missile Defense
-    MS     Maximum Speed
-    CC     Cargo Capacity
-    DF     Defense Factor
-    TF     Task Force
-    ARV    Days until Arrival (in Campaign.1)
-    CLASS  Ship Class (Ships of the same class will have all of the same
-           ratings including missiles, EW strength, etc.)
-    ID     Ship Identification Number
+MG     Main Guns
+AA     Secondary Guns
+MD     Missile Defense
+MS     Maximum Speed
+CC     Cargo Capacity
+DF     Defense Factor
+TF     Task Force
+ARV    Days until Arrival (in Campaign.1)
+CLASS  Ship Class (Ships of the same class will have all of the same
+       ratings including missiles, EW strength, etc.)
+ID     Ship Identification Number
 ```
+Ships:
 ```
                   MG   AA   MD   MS   CC   DF   TF   ARV  CLASS  ID
 CV-INVINCIBLE      0    0   60   25   12   20   20     0     4   146
