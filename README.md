@@ -33,4 +33,4 @@ Game play included landing paratroopers, shore bombardment from battleships, car
 ![Original Image of Nimitz](docs/images/a-high-angle-bow-view-of-the-nuclear-powered-aircraft-carrier-uss-nimitz-cvn-8e99fd.jpg "High Angle Bow View of the Nuclear Powered Aircraft Carrier USS Nimitz (CVN)")
 
 ### References
-1. https://nara.getarchive.net/media/a-high-angle-bow-view-of-the-nuclear-powered-aircraft-carrier-uss-nimitz-cvn-8e99fd
+1. ["A high angle bow view of the nuclear-powered aircraft carrier USS NIMITZ (CVN 68) underway. (Substandard image)"](https://nara.getarchive.net/media/a-high-angle-bow-view-of-the-nuclear-powered-aircraft-carrier-uss-nimitz-cvn-8e99fd). U.S. National Archives, NARA & DVIDS Public Domain Archive (01 January 1980).
