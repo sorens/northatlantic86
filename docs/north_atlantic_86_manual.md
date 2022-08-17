@@ -537,7 +537,7 @@ During the missile resolution phase, all anti-ship and anti-sub missiles will at
 1. If all else fails, the missile may still miss the target. The hit or miss frequency depends on the missile's accuracy rating. Accuracy ratings for anti-ship missiles are listed below:
 
        HARPOON     9*      SS-N-7        7*     SS-N-12       6
-       TOMAHAWK    9*      SS-N-2c       5      SS-N-19       7
+       TOMAHAWK    9*      SS-N-2C       5      SS-N-19       7
        EXOCET      9*      SS-N-3        4      AS-6          5*
        WALLEYE     7       SS-N-22       7      AS-7          7
        
