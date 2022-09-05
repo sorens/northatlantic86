@@ -589,7 +589,7 @@ Surface combat may occur between opposing TFs that occupy the same space if at l
 
 1. When attacking submarines fire two torpedoes at their target. After each attack, there is a ten precent chance that the sub's torpedo supply will be exhausted. The sub must undergo refit in port to regain its torpedo capability.
 
-1. After a submarine attack, the ASW ships in the target TF will attempt to track and attack the sub. The ASW ships may fire either ASW or AST systems at the sub. The probability of getting a shot at the sub is affected by sub speed. ASW ship speed, sub EW strength, ASW ship's sonar strength, and ASW/ AST system's range. The probability of sinking the sub is affected by ASW/ AST system's accuracy.
+1. After a submarine attack, the ASW ships in the target TF will attempt to track and attack the sub. The ASW ships may fire either ASW or AST systems at the sub. The probability of getting a shot at the sub is affected by sub speed, ASW ship speed, sub EW strength, ASW ship's sonar strength, and ASW/AST system's range. The probability of sinking the sub is affected by ASW/ AST system's accuracy.
 
 1. The Range/Accuracy of the ASW and AST systems is listed below:
 
