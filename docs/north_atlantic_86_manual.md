@@ -926,7 +926,7 @@ BERGEN        90000      300       342(255)
 AT SEA          0          0          0     11SSN 14SSNG
 ```
 
-## COMPAIGN.2
+## CAMPAIGN.2
 ```
                                     COMBAT
 
