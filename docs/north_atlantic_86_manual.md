@@ -309,15 +309,15 @@ During the Air Operation Phase, a player may
 ## 7.1 CAP Missions
 1. At the start of the Air Operation Phase, each player must determine how many of his fighters will fly CAP missions. Aircrafts performing CAP may not participate in air strikes or transfers during that turn.
 1. Fighters may fly two types of CAP missions: 
- 
-    (1) normal CAP
-    (2) long-range CAP
-      
+
+       (1) normal CAP
+       (2) long-range CAP
+
 Normal CAP will protect only the TF or airbase from which it originated. Long-range CAP will protect any friendly TF within range of the CAP aircraft. For CAP purposes, the range equals half the aircraft's strike range. Only a fraction of an airgroup performing long-range CAP will intercept an enemy bomber or missile strike. (The greater the distance between the CAP's home base and the strike target, the smaller the fraction). The number of CAP aircraft eligible to intercept a strike may be further reduced if the strike bombers are armed with long-range standoff missiles.
 1. CAP fighters have two methods of engaging enemy airstrikes: 
 
-    (1) Long-Range Air-to-Air Missile Combat
-    (2) Dogfight Combat
+       (1) Long-Range Air-to-Air Missile Combat
+       (2) Dogfight Combat
 
 Both Missile and dogfight combat will occur when CAP intercepts airstrikes armed with regular bombs (_standoff range=`0`_). There is a chance that CAP aircraft will fail to engage enemy air strikes armed with Long-Range Stand-Off Missiles. The probability of failure is affected by: 
 
@@ -427,10 +427,10 @@ Aircraft transfers may be performed between airbases and/or carriers with the fo
 Troops or supplies may be transferred between airbases, using transport aircraft (`Starlifter`, `Cub`).
 
 1. Whenever a transport aircraft is included in an air transfer mission (see 7.5), the computer will ask 
-    
-       TRANSPORT TROOPS OR SUPPLIES T/S. Press (T) to transport infantry; press (S) 
-       to transport supplies; press (RETURN) if you do not wish to transport any 
-       cargo.
+
+       TRANSPORT TROOPS OR SUPPLIES T/S. Press (T) to transport infantry; 
+       press (S) to transport supplies; press (RETURN) if you do not wish 
+       to transport any cargo.
 
 1. Each transport may carry one company (`100` men) of infantry. The number of supply units transferred in equal to the number of transport aircraft divided by the transfer range.
 
@@ -615,7 +615,7 @@ Surface combat may occur between opposing TFs that occupy the same space if at l
 
 1. If an emergency landing is required and there are no eligible bases or carriers within `3` squares, then the aircraft will ditch in the ocean.
 
-1. Aircraft which engaged in CAP, STRIKE or TRANSFER missions during the turn will suffer approximately 1% Non-Combat Losses for each mission. Troops and supplies being Air-Transported will also suffer the 1% loss.
+1. Aircraft which engaged in CAP, STRIKE or TRANSFER missions during the turn will suffer approximately `1%` Non-Combat Losses for each mission. Troops and supplies being Air-Transported will also suffer the `1%` loss.
 
 ## 8.6 Land Combat
 Land combat may occur whenever both Soviet and NATO infantry are present on Iceland or Faroes. Land combat must be planned at the end of the previous movement phase.
@@ -822,14 +822,16 @@ If between October 1 and November 10 the NATO player is reduced to less than two
 
 ## 10.1 Campaign Game Duration
 Campaign games will end after a specified number of turns:
-1. Campaign 1 - 252 turns
-1. Campaign 2 - 122 turns.
+    
+    (1) Campaign 1 - 252 turns
+    (2) Campaign 2 - 122 turns
 
 ## 10.2 Mini-Game Duration
 Mini-games will end after a specified number of turns.  Mini-game
 durations are as follows: 
-1. Convoy QR.44 - 12 turns
-1. Iceland - 20 turns.
+
+    (3) Convoy QR.44 - 12 turns
+    (4) Iceland      - 20 turns
 
 # 11.0 SOLITAIRE PLAY
 When playing solitaire games, the computer will command the Soviet Forces.
@@ -1332,7 +1334,7 @@ AK CLASS TRANSPORT 0    0    2   20    4    7    2    -     -     -
 Soviet strategic goals are: 
 
     (1) capture and hold the strategic airfields on Iceland and Faroes
-    (2) reduce or destroy NATO supply convoys to Great Britain. 
+    (2) reduce or destroy NATO supply convoys to Great Britain 
 
 Control of Iceland and Faroes is worth `500` VPs each, while a prolonged supply shortage in Britain is worth `1000` VPs.
 
@@ -1567,7 +1569,7 @@ Startlifter  -C141     2500           none               -
 * 100 added to range of long range AAMs to aid in calculating interception range.
 ```
 
-## AVG./MAX. INTERCEPTION RANGES
+## AVGERAGE/MAXIMUM INTERCEPTION RANGES
 ```
                         Long Range CAP
                    Missile       Missile      Dogfight    Dogfight
