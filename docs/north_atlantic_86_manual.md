@@ -308,15 +308,13 @@ During the Air Operation Phase, a player may
 
 ## 7.1 CAP Missions
 1. At the start of the Air Operation Phase, each player must determine how many of his fighters will fly CAP missions. Aircrafts performing CAP may not participate in air strikes or transfers during that turn.
-
-B. Fighters may fly two types of CAP missions: 
+1. Fighters may fly two types of CAP missions: 
  
     (1) normal CAP
     (2) long-range CAP
       
 Normal CAP will protect only the TF or airbase from which it originated. Long-range CAP will protect any friendly TF within range of the CAP aircraft. For CAP purposes, the range equals half the aircraft's strike range. Only a fraction of an airgroup performing long-range CAP will intercept an enemy bomber or missile strike. (The greater the distance between the CAP's home base and the strike target, the smaller the fraction). The number of CAP aircraft eligible to intercept a strike may be further reduced if the strike bombers are armed with long-range standoff missiles.
-
-C. CAP fighters have two methods of engaging enemy airstrikes: 
+1. CAP fighters have two methods of engaging enemy airstrikes: 
 
     (1) Long-Range Air-to-Air Missile Combat
     (2) Dogfight Combat
@@ -329,11 +327,11 @@ Both Missile and dogfight combat will occur when CAP intercepts airstrikes armed
     (4) the success of Early Warning Aircraft in detecting the strike
 
 It is possible that CAP will proceed in firing missiles at an airstrike, but fail to engage it in dogfight combat.
-
-D. Listed below are the `AVERAGE`/`MAXIMUM` interception ranges (in km), each type of fighter aircraft:
+1. Listed below are the `AVERAGE`/`MAXIMUM` interception ranges (in km), each type of fighter aircraft:
 
 ```
                            Long Range CAP
+
                   Missile    Missile    Dogfight    Dogfight
                    + EW       No EW       + EW       No  EW
 
@@ -346,7 +344,8 @@ FORGER     -Y36     NM        NM         55/110      26/53
 FLOGGER    -M23   300/400    63/68      125/250      30/60
 
 
-                         Normal CAP
+                            Normal CAP
+
                   Missile    Missile    Dogfight    Dogfight
                    + EW       No EW       + EW       No  EW
 
@@ -427,7 +426,10 @@ Aircraft transfers may be performed between airbases and/or carriers with the fo
 ## 7.6 Air Transport Operations
 Troops or supplies may be transferred between airbases, using transport aircraft (`Starlifter`, `Cub`).
 
-1. Whenever a transport aircraft is included in an air transfer mission (see 7.5), the computer will ask `TRANSPORT TROOPS OR SUPPLIES T/S. Press (T) to transport infantry; press (S) to transport supplies`; press (RETURN) if you do not wish to transport any cargo.
+1. Whenever a transport aircraft is included in an air transfer mission (see 7.5), the computer will ask 
+    
+       TRANSPORT TROOPS OR SUPPLIES T/S. Press (T) to transport infantry; press (S) to transport supplies; press (RETURN) if you do not wish to transport any cargo.
+
 1. Each transport may carry one company (`100` men) of infantry. The number of supply units transferred in equal to the number of transport aircraft divided by the transfer range.
 
 ## 7.7 Airborne Assault
