@@ -479,6 +479,7 @@ For stand-off missile strikes, segments 6 and 7 are omitted.
        Phoenix       3
        AMRAAM        2
        Apex          1
+
     AAMs fired by strike aircraft may acquire targets from any of the air groups performing Normal or Long-range CAP. AAMs fired by CAP aircraft may acquire targets from the Strike Group only. The success of each AAM fired is reduced by the ECM rating of the target aircraft and the ASW number of the target aircraft's base/carrier. Following each AAM combat. `50%` of the firing aircraft in each participating CAP group will suffer missile depletion and be unable to fire at incoming air strikes occurring per that turn.
 
     Fighter aircraft must be able to "lock-on" to their targets in order to fire their long-range AAMs. The chance of a successful lock-on is determined by the firing aircraft's RADAR strength. The chance of firing an enemy plane with a missile is affected by the ECM rating of the target aircraft:
