@@ -428,7 +428,9 @@ Troops or supplies may be transferred between airbases, using transport aircraft
 
 1. Whenever a transport aircraft is included in an air transfer mission (see 7.5), the computer will ask 
     
-       TRANSPORT TROOPS OR SUPPLIES T/S. Press (T) to transport infantry; press (S) to transport supplies; press (RETURN) if you do not wish to transport any cargo.
+       TRANSPORT TROOPS OR SUPPLIES T/S. Press (T) to transport infantry; press (S) 
+       to transport supplies; press (RETURN) if you do not wish to transport any 
+       cargo.
 
 1. Each transport may carry one company (`100` men) of infantry. The number of supply units transferred in equal to the number of transport aircraft divided by the transfer range.
 
